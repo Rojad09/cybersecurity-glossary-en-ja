@@ -13,6 +13,7 @@ A personal glossary, created as a way to recognize and remember some of the more
 
 単に用語を直訳するのではなく、実際の現場でよく使われるセキュリティ英単語と、それに対応する日本語（外来語を含む）を集めたデータベースを作ろうと思っています。サイバーセキュリティ関連のIT用語も含め、語学学習者にとって難易度の高い専門用語を重点的に取り上げています。収録する用語は、JPCERT/CCのレポート、IPAの出版物、CompTIAやCCSPの教材、MITRE ATT&CKフレームワークなど、実際の文献や実務資料から抽出しています。
 
+→ **[glossary.md](Glossary.md)**
 ---
 
 ## Author / 著者
