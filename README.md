@@ -24,3 +24,8 @@ Rojad09 · Cybersecurity Student ·  EN / ES / 日本語
 *This is a living document! terms are added continuously.*
 
 *※日々の学習に合わせて、今後も継続的に用語を追加・更新していく予定です！*
+
+## Sources / 参考資料
+The definitions will come from dictionaries as much as possible, if not found, google.
+
+できるだけ辞書から定義を抽出しています（見つからなかった場合、グーグルで間に合わせします）
