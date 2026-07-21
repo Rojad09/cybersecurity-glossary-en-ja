@@ -1,8 +1,10 @@
 # Cybersecurity Glossary - English and Japanese　
 # サイバーセキュリティ用語集 — 英語・日本語
 >学習、ラボ, CTF, サイバー脅威レポートを読みながら随時追加している個人用サイバーセキュリティ用語集。
+* **用語の検索には `Ctrl + F`（Macは `Cmd + F`）が便利です！**
 
 >A personal cybersecurity glossary I add to as I study, do labs, CTF, and read threat reports.
+* **Press `Ctrl + F` (`Cmd + F` on Mac) to easily scan for definitions!**
 
 [← Back to README](README.md)
 
