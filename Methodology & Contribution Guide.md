@@ -37,7 +37,7 @@ This glossary is built on quality and practical utility. Whether I am adding ter
 
   （**外来語:** 定着している外来語にはカタカナを使用してください（例：マルウェア、フィッシング）。）
 
-- Providing **romaji** for pronunciation is optinal
+- Providing **romaji** for pronunciation is optional
 
   （**ローマ字**の追加は任意です）
 
