@@ -29,3 +29,5 @@ Rojad09 · Cybersecurity Student ·  EN / ES / 日本語
 The definitions will come from dictionaries as much as possible, if not found, google.
 
 できるだけ辞書から定義を抽出しています（見つからなかった場合、グーグルで間に合わせします）
+
+→ **[Methodology & Contribution Guide.md](https://github.com/Rojad09/cybersecurity-glossary-en-ja/blob/main/Methodology%20%26%20Contribution%20Guide.md)**
